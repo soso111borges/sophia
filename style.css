@@ -1,1 +1,13 @@
-
+*{
+margin: 0;
+podding0: 0;
+}
+body{
+  background: #CCCCCC
+}
+p{
+  text-align: center;
+}
+em stong {
+  color: purple;
+}
