@@ -3,11 +3,16 @@ margin: 0;
 podding0: 0;
 }
 body{
-  background: #CCCCCC
+  
 }
 #banner{
   width:100%;
 }
+.principal{
+  background:#cccccc;
+  podding:30px;
+}
+  
 h1{
 }
   text-align:center;
@@ -18,6 +23,24 @@ p{
 }
 #missao{
   fort-size:30px
+  .itens{
+  font-style: italic;
+}
+.beneficios{
+  brackground:#FFFFFF;
+  podding:20px;
+}
+h2{
+  text-align:center;
+  ul{
+    display:inline-block;
+    vertical-align:top;
+    width:20%;
+    margin-right:15%;
+  }
+  .imagem-beneficios[
+   widt:50%
+  }
 }
 em stong {
   color: purple;
