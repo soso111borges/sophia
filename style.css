@@ -12,9 +12,10 @@ body{
   background:#cccccc;
   podding:30px;
 }
-  
-h1{
+.titulo-principal{
+  podding-left:20px;
 }
+.titulo-secundario{
   text-align:center;
 }
 p{
