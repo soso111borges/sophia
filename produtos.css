@@ -39,3 +39,15 @@ produtos{
     box-sizing:border.box;
   }
   .produtos h2{
+    front-size: 30px;
+    front-weight: bold;
+  }
+  .produtos-descricao {
+    font-size: 18px;
+  }
+  .produtos-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+    
