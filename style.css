@@ -238,26 +238,3 @@ td, th {
 	margin: 2em auto;
 }
 
-
-/* Proxima aula
-
-*inserir na linha 171 
-.principal {
-	padding: 3em 0;
-	background: #FEFEFE;
-	width: 940px;
-	margin: 0 auto;
-}
-
-
-* inserir entre .mapa e .mapa p
-.mapa-conteudo {
-	width: 940px;
-	margin: 0 auto;
-}
-
-Mudar a ordem de todas as classes mapa deixando após a classe utensilios
-
-inverter a posição das classes benefícios e imagem-beneficios
-
-*/
